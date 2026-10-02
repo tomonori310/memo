@@ -1,0 +1,5 @@
+【コマンドから実行】
+python src\main.py
+
+【exe化】
+pyinstaller main.py --noconsole --icon=img\app.ico --name="アプリ名"
